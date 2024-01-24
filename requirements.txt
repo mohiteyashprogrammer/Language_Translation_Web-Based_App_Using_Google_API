@@ -1,1 +1,6 @@
 googletrans
+streamlit
+pandas
+numpy
+
+-e .
