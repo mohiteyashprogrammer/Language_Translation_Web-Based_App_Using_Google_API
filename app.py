@@ -2,7 +2,7 @@ import streamlit as st
 from googletrans import LANGUAGES, Translator
 from utils import set_background
 
-set_background("C:\\Users\\yash mohite\\OneDrive\\Desktop\\Language_Translation_Web-Based_App_Using_Google_API\\R.jpg")
+#set_background("C:\\Users\\yash mohite\\OneDrive\\Desktop\\Language_Translation_Web-Based_App_Using_Google_API\\R.jpg")
 
 def main():
     try:
