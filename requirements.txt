@@ -1,6 +1,9 @@
-googletrans
+googletrans==4.0.0-rc1
 streamlit
 pandas
 numpy
+translate
 
+# if google translator api not work then use this command to install 
+# pip install  googletrans==4.0.0-rc1
 -e .
